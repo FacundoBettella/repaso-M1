@@ -21,7 +21,6 @@
 ## LinkedList
 
 [ ] Implementar el metodo size
-[ ] Implementar el metodo size para LinkedList
 [ ] Implementar el metodo sort para LinkedList
 [ ] Implementar el metodo deleteFromPosition para LinkedList
 

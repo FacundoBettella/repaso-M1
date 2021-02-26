@@ -4,7 +4,7 @@
 
 ## Algoritmos
 
-[ ] Crear una funcion que ordena productos segun los parametros que le pasemos.
+[x] Crear una funcion que ordena productos segun los parametros que le pasemos.
 
 > Ejemplo: `sort(productos, precio)` deberia ordenar el array **productos** segun su precio
 

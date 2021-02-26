@@ -37,7 +37,6 @@ class LinkedList {
   add(value) {
     const newNode = new Node(value);
     if (!this.head) return (this.head = newNode);
-
     let tail = this.head;
     while (tail.next) {
       tail = tail.next;
